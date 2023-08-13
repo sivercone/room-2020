@@ -35,7 +35,11 @@ function App() {
           }}
         >
           <p>room 2020</p>
-          <a href="https://twitter.com/sivercone" target="_blank" rel="">
+          <a
+            href="https://twitter.com/sivercone"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
             @sivercone
           </a>
         </div>
